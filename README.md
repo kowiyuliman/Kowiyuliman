@@ -1,6 +1,6 @@
 ### Hi there, I'm Kowiyul Iman! 👋
 
-**IT Support Specialist | Application Developer (Laravel & Python)**
+**IT Support | Application Developer (Laravel & Python)**
 
 Saya adalah seorang profesional IT yang memadukan pengalaman praktis dalam operasional infrastruktur dengan keahlian pengembangan perangkat lunak. Selain mengelola jaringan dan server, saya memiliki minat yang besar dan aktif dalam mengembangkan aplikasi web menggunakan **Laravel** serta membangun berbagai aplikasi dan skrip otomatisasi menggunakan **Python**.
 
